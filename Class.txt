@@ -1,0 +1,2 @@
+classname=基础.反射.Person
+methodname=getPerson
